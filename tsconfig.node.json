@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "incremental": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "target": "ES2022"
+  }
+}
